@@ -1,0 +1,12 @@
+const String kAppName = "Travel Buddy";
+//const String kSplashRoute = "/";
+const String kLoginRoute = "/loginScreen";
+const String kSignUpRoute = "/SignUpScreen";
+const String kHomeRoute = "/HomeScreen";
+const String kForgotPasswordRoute = "/ForgotPasswordScreen";
+const String kOTPverificationRoute = "/OTPVerificationScreen";
+const String kSetPasswordRoute = "/SetPasswordScreen";
+const String kProfileDetailRoute = "/ProfileDetailScreen";
+const String kChatRoute = "/ChatScreen";
+const String kPrivacyRoute = "/PrivacyScreen";
+const String kAboutUsRoute = "/AboutUsScreen";
